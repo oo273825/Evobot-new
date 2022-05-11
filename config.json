@@ -1,7 +1,7 @@
 {
   "TOKEN": "",
   "MAX_PLAYLIST_SIZE": 1400,
-  "PREFIX": ";;",
+  "PREFIX": ";;;",
   "PRUNING": true,
   "LOCALE": "zh_tw",
   "STAY_TIME": 180,
