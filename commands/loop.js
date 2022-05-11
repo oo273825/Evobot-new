@@ -3,7 +3,7 @@ import { canModifyQueue } from "../utils/queue.js";
 
 export default {
   name: "loop",
-  aliases: ["l"],
+  aliases: ["l","lp"],
   description: i18n.__("loop.description"),
   execute(message) {
     const queue = message.client.queue.get(message.guild.id);
